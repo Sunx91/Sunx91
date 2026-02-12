@@ -8,10 +8,20 @@
 
 ---
 
-## GitHub Activity
+## GitHub Overview
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sunx91&theme=dark&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sunx91&theme=github_dark" />
+</p>
+
+
+<p align="center">
+  <a href="https://github.com/Sunx91">
+    <img src="https://komarev.com/ghpvc/?username=Sunx91&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
+  <a href="https://www.linkedin.com/in/sunath-sandul/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat" />
+  </a>
 </p>
 
 ---
