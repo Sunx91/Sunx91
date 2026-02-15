@@ -40,7 +40,7 @@
 
 ### Backend & APIs
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+  <img src="https://skillicons.dev/icons?i=nodejs,fastapi" />
 </p>
 
 ### Databases
